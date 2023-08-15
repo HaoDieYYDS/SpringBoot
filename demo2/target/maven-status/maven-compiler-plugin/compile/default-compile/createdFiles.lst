@@ -1,0 +1,10 @@
+com\example\demo\socket\SocketUtil.class
+com\example\demo\controller\TestController.class
+com\example\demo\config\WebSocketConfig.class
+com\example\demo\service\UserService.class
+com\example\demo\dao\UserMapper.class
+com\example\demo\pojo\SocketMsg.class
+com\example\demo\pojo\User.class
+com\example\demo\config\CorsConfig.class
+com\example\demo\Demo1Application.class
+com\example\demo\service\impl\UserServiceImpl.class
